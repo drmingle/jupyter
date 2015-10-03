@@ -18,8 +18,8 @@ The following Jupyter kernels are widely used in data science:
      - IJulia Kernel (`GitHub Repo <https://github.com/JuliaLang/IJulia.jl>`__)
      - Interactive Widgets (`GitHub Repo <https://github.com/JuliaLang/Interact.jl>`__)
 * Bash (`GitHub Repo <https://github.com/takluyver/bash_kernel>`__)
-*Clojure
+* Clojure
     -Clojure Kernel ('GitHub Repo <https://github.com/roryk/clojupyter>'__)
-*Scala
+* Scala
     -Scala Kernel ('GitHub Repo <https://github.com/mattpap/IScala>'__)
 
