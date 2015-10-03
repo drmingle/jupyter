@@ -113,7 +113,7 @@ Deployment
 
 To serve a variety of users and use cases, these subprojects are being
 developed to support notebook deployment in various contexts, including
-multiuser capabilities and secure, scalable cloud deployments.
+multi-user capabilities and secure, scalable cloud deployments.
 
 .. glossary::
 
