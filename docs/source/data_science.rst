@@ -4,7 +4,7 @@
 Jupyter for Data Science
 ========================
 
-The purpose of this page is to highlight kernels and other projects that are central to the usage of Jupyter in data science. List page is not meant to be comprehensive or unbiased, but rather to provide an opinionated view of the usage of Jupyter in data science based on our interactions with users.
+The purpose of this page is to highlight kernels and other projects that are central to the usage of Jupyter in data science. This list page is not meant to be comprehensive or biased, but rather to provide an opinionated view of the usage of Jupyter in data science based on our interactions with users.
 
 The following Jupyter kernels are widely used in data science:
 
@@ -18,3 +18,8 @@ The following Jupyter kernels are widely used in data science:
      - IJulia Kernel (`GitHub Repo <https://github.com/JuliaLang/IJulia.jl>`__)
      - Interactive Widgets (`GitHub Repo <https://github.com/JuliaLang/Interact.jl>`__)
 * Bash (`GitHub Repo <https://github.com/takluyver/bash_kernel>`__)
+*Clojure
+    -Clojure Kernel ('GitHub Repo <https://github.com/roryk/clojupyter>'__)
+*Scala
+    -Scala Kernel ('GitHub Repo <https://github.com/mattpap/IScala>'__)
+
